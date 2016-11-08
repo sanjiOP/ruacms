@@ -1,0 +1,15 @@
+.loginbody{  background:url('../images/3.jpg') no-repeat left top;  }
+.loginbody .input-group{line-height: 40px;padding-left:30px;}
+.loginbody .input-group.username{margin-top:20px;}
+
+
+.logo{  height:50px;line-height: 50px;width:175px;font-size: 20px;float:left;  }
+.main-menu{float:left;height:50px;line-height:60px;}
+.main-menu a{margin:0 10px;color: #fff;}
+.main-menu a.active{margin:0 10px;color: #000;}
+.main-menu a.l-btn{border-color: rgb(39, 153, 255);}
+
+.main-menu a.m-btn-plain-active{margin:0 10px;color: #000;}
+
+.l-btn-text{font-size:16px;font-weight: bold;padding:0 8px;}
+.logout{  height: 50px;line-height: 50px;float:right;margin-right: 20px;  }
